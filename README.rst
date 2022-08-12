@@ -7,6 +7,9 @@ Implements `diffcalc <https://github.com/DiamondLightSource/diffcalc>`_ function
 
 If used for your research, please credit Aurys Silinga.
 
+.. image:: https://github.com/DanPorter/i16sim/blob/efb6e1131af703a32e5d307d10f5f57c4fa213d6/i16sim.PNG
+   :width: 600pt
+
 Features
 =======================
 
