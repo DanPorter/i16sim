@@ -69,7 +69,7 @@ This step configure's the internal Blender python environment and installs requi
 Install i16sim plugin
 ---------------------
 
- 8. Open Preferences (h-bars at top left > Edit > Preferences...)
+ 8. Open Preferences (Menu ☰ > Edit > Preferences...)
 
  9.  In the **Add-ons** tab, click **Install..**
 
@@ -78,6 +78,18 @@ Install i16sim plugin
  11. Ensure the **i16 simulation** Add-on is selected.
 
  12. Installation is complete!
+
+
+Update i16sim plugin
+--------------------
+
+ 1. Download new version of `i16full/install/i16sim.zip <https://github.com/DanPorter/i16sim/blob/main/i16%20full/install/i16sim.zip>`_
+
+ 2. In Blender, Open Preferences (Menu ☰ > Edit > Preferences...)
+
+ 3. Remove old Add-on **i16 simulation** (select and press **remove**)
+
+ 4. Install new version from downloaded file.
 
 
 Documentation
